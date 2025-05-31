@@ -26,7 +26,7 @@ MEDIA_DIR = BASE_DIR / 'media' # Directory for media files like user uploads
 SECRET_KEY = 'django-insecure-^s3+a7e)az5^jghja@*vy@3(+*gvsyum=ll-z3-#i1)mykpz7a'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [sopheapkh.pythonanywhere.com]
 
